@@ -15,7 +15,7 @@ Key Changes:
 Copy or clone this repository into a subdirectory of "config/custom\_components",
 where "config" is the directory containing "homeassistant.yaml".
 
-For example, executing `git clone` inside the "custom\_components directory
+For example, executing `git clone` inside the "custom\_components" directory
 will place this in "config/custom\_components/frigidaire\_homeassistant".
 
 Then, restart HomeAssistant, add a Frigidaire device, and login using your
