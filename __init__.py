@@ -1,7 +1,7 @@
 """The frigidaire integration."""
 from __future__ import annotations
 
-import frigidaire
+from . import frigidaire
 
 from homeassistant import data_entry_flow
 from homeassistant.config_entries import ConfigEntry
